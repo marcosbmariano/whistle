@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhistleApp</string>
+    
+
+    <string-array name="sections">
+        <item name="code">Code</item>
+        <item name="issues">Issues</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="press_issues_tab">Press Issues Tab</string>
+</resources>
